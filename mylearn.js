@@ -1,4 +1,5 @@
-
+const u="balaganesh";
+console.log(u);
 
 let a="mynameis bala";
 
