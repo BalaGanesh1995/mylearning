@@ -11,3 +11,4 @@ console.log(b.sort());
 
 // you need to take the viowels
 console.log(a);
+let g="i bala "
